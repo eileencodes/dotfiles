@@ -28,3 +28,6 @@ alias ..4='cd ../../../../'
 #git aliases
 alias gits='git status'
 alias gib='git branch'
+
+export CLICOLOR=1
+export GREP_OPTIONS='--color=auto'
