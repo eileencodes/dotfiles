@@ -47,3 +47,4 @@ dump.rdb
 .vim/.VimballRecord
 .vim/.netrwhist
 .bash_profile_copy
+*.swp
