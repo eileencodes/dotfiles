@@ -1,0 +1,12 @@
+[credential]
+	helper = osxkeychain
+[core]
+	editor = /usr/bin/vim
+[user]
+	name = eileencodes
+	email = eileencodes@gmail.com
+[color]
+  branch = auto
+  diff = auto
+  status = auto
+  ui = true
