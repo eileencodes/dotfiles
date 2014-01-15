@@ -31,3 +31,4 @@ alias gib='git branch'
 
 export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
+alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-lineno=white'
