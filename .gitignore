@@ -48,3 +48,4 @@ dump.rdb
 .vim/.netrwhist
 .bash_profile_copy
 *.swp
+*.swo
