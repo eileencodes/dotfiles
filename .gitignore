@@ -9,9 +9,6 @@
 .dropbox/
 .fontconfig/
 .gem/
-.git_aliases
-.git_complete
-.git_script
 .gitk
 .gnupg/
 .ievms/
