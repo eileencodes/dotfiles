@@ -25,9 +25,16 @@ alias ..2='cd ../../'
 alias ..3='cd ../../../'
 alias ..4='cd ../../../../'
 
+function mycd () {
+  cd "$@"
+  git config --get user.name && git config --get user.email
+}
+alias cd='mycd'
+
 #git aliases
 alias gits='git status'
 alias gib='git branch'
+alias work='git workname && git workemail'
 
 export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
