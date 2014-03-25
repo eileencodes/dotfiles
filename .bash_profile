@@ -35,6 +35,7 @@ alias cd='mycd'
 alias gits='git status'
 alias gib='git branch'
 alias work='git workname && git workemail'
+alias github='git hubname && git hubemail'
 
 export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
