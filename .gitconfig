@@ -2,6 +2,7 @@
 	helper = osxkeychain
 [core]
 	editor = /usr/bin/vim
+	excludesfile = /Users/eileen/.gitignore_global
 [user]
 	name = eileencodes
 	email = eileencodes@gmail.com
