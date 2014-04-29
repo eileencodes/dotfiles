@@ -20,6 +20,8 @@ fi
 
 export EDITOR=vim
 
+export PATH=$HOME/local/bin:$PATH
+
 alias ..='cd ..'
 alias ..2='cd ../../'
 alias ..3='cd ../../../'
