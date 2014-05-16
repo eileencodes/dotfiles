@@ -9,3 +9,4 @@ go/
 Procfile
 ar_test_DONOTCOMMIT.rb
 .phishme_aliases
+.git_author

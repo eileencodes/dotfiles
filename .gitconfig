@@ -11,3 +11,5 @@
   diff = auto
   status = auto
   ui = true
+[include]
+  path = /.git_author
