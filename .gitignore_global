@@ -10,6 +10,7 @@ go/
 Procfile
 ar_test_DONOTCOMMIT.rb
 ar_create_DONOTCOMMIT.rb
+ar_where_val.rb
 .phishme_aliases
 .git_author
 .pia_manager/
