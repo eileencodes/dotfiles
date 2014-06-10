@@ -26,6 +26,8 @@ alias ..='cd ..'
 alias ..2='cd ../../'
 alias ..3='cd ../../../'
 alias ..4='cd ../../../../'
+alias tmate-off='mv .tmate.conf .tmate.conf.off'
+alias tmate-on='mv .tmate.conf.off .tmate.conf'
 
 function mycd () {
   cd "$@"
