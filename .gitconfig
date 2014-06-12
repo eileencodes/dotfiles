@@ -12,4 +12,4 @@
   status = auto
   ui = true
 [include]
-  path = /.git_author
+  path = .git_author
