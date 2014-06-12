@@ -46,3 +46,4 @@ dump.rdb
 .bash_profile_copy
 *.swp
 *.swo
+.vagrant*
