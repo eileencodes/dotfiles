@@ -47,3 +47,4 @@ dump.rdb
 *.swp
 *.swo
 .vagrant*
+.berkshelf
