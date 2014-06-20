@@ -8,8 +8,8 @@ tags
 .atom/storage/
 go/
 Procfile
-ar_rails_*.rb
 .phishme_aliases
 .git_author
 .pia_manager/
 .tmate.conf.off
+ar_test_scripts/
