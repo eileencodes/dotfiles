@@ -13,3 +13,7 @@
   ui = true
 [include]
   path = .git_author
+[alias]
+  bisect-fixed = bisect good
+  bisect-broken = bisect bad
+  undo-wip = reset HEAD~1
