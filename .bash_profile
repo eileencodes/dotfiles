@@ -26,8 +26,8 @@ alias ..='cd ..'
 alias ..2='cd ../../'
 alias ..3='cd ../../../'
 alias ..4='cd ../../../../'
-alias tmate-off='mv .tmate.conf .tmate.conf.off'
-alias tmate-on='mv .tmate.conf.off .tmate.conf'
+alias tmate-off='mv ~/.tmate.conf ~/.tmate.conf.off'
+alias tmate-on='mv ~/.tmate.conf.off ~/.tmate.conf'
 
 function mycd () {
   cd "$@"
@@ -42,7 +42,7 @@ alias work='git workname && git workemail'
 alias github='git hubname && git hubemail'
 
 # phishme aliases
-source .phishme_aliases
+source ~/.phishme_aliases
 
 export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
