@@ -8,7 +8,7 @@
   "highlight": true,
   "journals": {
     "default": "/Users/eileen/journal.txt",
-    "rails_oss": "/Users/eileen/rails_jounral.txt",
+    "rails_oss": "/Users/eileen/rails_journal.txt",
     "doge_notes": "/Users/eileen/doge_notes_journal.txt",
     "work": "/Users/eileen/work_journal.txt"
   },
