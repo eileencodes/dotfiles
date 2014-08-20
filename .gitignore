@@ -49,3 +49,7 @@ dump.rdb
 .vagrant*
 .berkshelf
 .pry_history
+journal.txt
+rails_journal.txt
+doge_notes_journal.txt
+work_journal.txt
