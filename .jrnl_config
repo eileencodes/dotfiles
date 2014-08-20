@@ -1,16 +1,16 @@
 {
-  "default_hour": 9, 
-  "timeformat": "%Y-%m-%d %H:%M", 
-  "linewrap": 79, 
-  "encrypt": false, 
-  "editor": "vim", 
-  "default_minute": 0, 
-  "highlight": true, 
+  "default_hour": 9,
+  "timeformat": "%Y-%m-%d %H:%M",
+  "linewrap": 79,
+  "encrypt": false,
+  "editor": "vim",
+  "default_minute": 0,
+  "highlight": true,
   "journals": {
     "default": "/Users/eileen/journal.txt",
     "rails_oss": "/Users/eileen/rails_jounral.txt",
     "doge_notes": "/Users/eileen/doge_notes_journal.txt",
     "work": "/Users/eileen/work_journal.txt"
-  }, 
+  },
   "tagsymbols": "@"
 }
