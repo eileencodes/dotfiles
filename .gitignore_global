@@ -1,6 +1,7 @@
 *.swp
 *.swo
 *.swn
+*.swm
 .DS_Store
 .ruby-version
 .ruby-gemset
