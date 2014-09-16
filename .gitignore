@@ -26,6 +26,7 @@
 .wireshark/
 .zprofile
 .zshenv
+Applications/
 Desktop/
 Documents/
 Downloads/
@@ -54,3 +55,11 @@ rails_journal.txt
 doge_notes_journal.txt
 work_journal.txt
 .pia_manager_crash.log
+.bundler/
+.keybase*
+.npm
+.pow
+.powconfig
+.subversion
+.rbenv
+dotfiles/
