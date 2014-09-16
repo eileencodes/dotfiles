@@ -63,3 +63,5 @@ work_journal.txt
 .subversion
 .rbenv
 dotfiles/
+.37/
+.bundle/
