@@ -45,3 +45,4 @@ export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
 alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-lineno=white'
 eval "$(rbenv init -)"
+eval "$($HOME/.37/bin/37 init -)"
