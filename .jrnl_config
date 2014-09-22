@@ -7,8 +7,8 @@
   "default_minute": 0,
   "highlight": true,
   "journals": {
-    "default": "/Users/eileen/journal.txt",
-    "work": "/Users/eileen/work_journal.txt"
+    "default": "/Users/eileen/journals/journal.txt",
+    "work": "/Users/eileen/journals/work_journal.txt"
   },
   "tagsymbols": "@"
 }
