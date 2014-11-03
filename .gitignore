@@ -62,3 +62,4 @@ dotfiles/
 .37/
 .bundle/
 journals/
+.secrets/
