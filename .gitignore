@@ -63,3 +63,4 @@ dotfiles/
 .bundle/
 journals/
 .secrets/
+.irbhistory
