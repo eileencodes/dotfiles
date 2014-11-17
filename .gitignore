@@ -64,3 +64,4 @@ dotfiles/
 journals/
 .secrets/
 .irbhistory
+.cpanm/
