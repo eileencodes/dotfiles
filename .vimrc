@@ -5,7 +5,7 @@ set nocompatible                  " Must come first because it changes other opt
 silent! call pathogen#runtime_append_all_bundles()
 
 syntax enable                     " Turn on syntax highlighting.
-" filetype plugin indent on         " Turn on file type detection.
+filetype plugin indent on         " Turn on file type detection.
 
 " runtime macros/matchit.vim        " Load the matchit plugin.
 
@@ -72,10 +72,6 @@ map <leader>tm :tabmove
 
 " For the MakeGreen plugin and Ruby RSpec. Uncomment to use.
 autocmd BufNewFile,BufRead *_spec.rb compiler rspec
-
-" Nerdtree shortcuts
-map nerd :NERDTreeFind<cr>
-map nerdc :NERDTreeClose<cr>
 
 " cannot type esc + :w anymore...
 noremap <silent> <C-j> :update<CR>
