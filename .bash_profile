@@ -22,6 +22,8 @@ export EDITOR=vim
 
 export PATH=$HOME/local/bin:$PATH
 
+source ~/.basecamp_aliases
+
 alias ..='cd ..'
 alias ..2='cd ../../'
 alias ..3='cd ../../../'

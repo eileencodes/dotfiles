@@ -9,7 +9,6 @@ tags
 .atom/storage/
 go/
 Procfile
-.phishme_aliases
 .git_author
 .pia_manager/
 .tmate.conf.off
