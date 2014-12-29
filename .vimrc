@@ -135,6 +135,11 @@ function! RunTests(filename)
     end
 endfunction
 
+" Remove whitspace
+function! Strip()
+  %s/\s\+$//e
+endfunction
+
 " Hightlight whitespace and tabs
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
