@@ -42,6 +42,9 @@ alias gib='git branch'
 alias work='git workname && git workemail'
 alias github='git hubname && git hubemail'
 
+#test alias
+alias rb_test='ruby -I lib:test'
+
 export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
 alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-lineno=white'
