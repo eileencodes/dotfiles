@@ -69,3 +69,4 @@ journals/
 .cocoapods/
 .neoman
 .rediscli_history
+.byebug_hist
