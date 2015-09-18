@@ -70,3 +70,5 @@ journals/
 .neoman
 .rediscli_history
 .byebug_hist
+.powprox
+.rnd
