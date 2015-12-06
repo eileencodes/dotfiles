@@ -72,3 +72,4 @@ journals/
 .byebug_hist
 .powprox
 .rnd
+.guard_history
