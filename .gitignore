@@ -73,3 +73,5 @@ journals/
 .powprox
 .rnd
 .guard_history
+.sendcat
+.node-gyp/
