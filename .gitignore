@@ -74,4 +74,8 @@ journals/
 .rnd
 .guard_history
 .sendcat
-.node-gyp/
+.node-gyp
+.electron
+.lldb
+.npmrc
+.oracle_jre_usage
