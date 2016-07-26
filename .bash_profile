@@ -27,12 +27,6 @@ alias ..3='cd ../../../'
 alias ..4='cd ../../../../'
 alias mtr='sudo /usr/local/sbin/mtr'
 
-function mycd () {
-  cd "$@"
-  git config --get user.name && git config --get user.email
-}
-alias cd='mycd'
-
 #git aliases
 alias gits='git status'
 alias gib='git branch'
