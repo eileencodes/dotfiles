@@ -42,3 +42,4 @@ alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-l
 eval "$(rbenv init -)"
 eval "$($HOME/.37/bin/37 init -)"
 export PATH="/usr/local/sbin:$PATH"
+export DISABLE_SPRING=1
