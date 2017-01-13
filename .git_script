@@ -87,7 +87,7 @@ git_bash_prompt ()
 # \h:\W \u\$
 #PS1='\h:\W \u$(git_bash_prompt)\$ '
 
-PS1='\[\e[0m\][\u@\h \W$(git_bash_prompt)]\$ '
+PS1='\[\e[0m\]🤖 \W$(git_bash_prompt)\$ '
 
 #if [ `whoami` = 'root' ]; then
 #        export PS1="\[\033[01;31m\]\u\[\033[01;34m\] \w $(git_bash_prompt)\$\[\033[00m\] "
