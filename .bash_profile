@@ -19,8 +19,6 @@ export EDITOR=vim
 
 export PATH=$HOME/local/bin:$PATH
 
-source ~/.basecamp_aliases
-
 alias ..='cd ..'
 alias ..2='cd ../../'
 alias ..3='cd ../../../'
@@ -40,6 +38,5 @@ export CLICOLOR=1
 export GREP_OPTIONS='--color=auto'
 alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-lineno=white'
 eval "$(rbenv init -)"
-eval "$($HOME/.37/bin/37 init -)"
 export PATH="/usr/local/sbin:$PATH"
 export DISABLE_SPRING=1
