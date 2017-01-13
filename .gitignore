@@ -79,3 +79,8 @@ journals/
 .lldb
 .npmrc
 .oracle_jre_usage
+.atom/
+.bash_sessions/
+.pia_manager/
+github/
+open_source/

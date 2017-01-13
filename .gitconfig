@@ -17,3 +17,7 @@
   bisect-fixed = bisect good
   bisect-broken = bisect bad
   undo-wip = reset HEAD~1
+[github]
+	user = eileencodes
+[push]
+	default = simple
