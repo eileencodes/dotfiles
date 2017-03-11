@@ -13,6 +13,7 @@
 .gnupg/
 .ievms/
 .irb-history
+.irb_history
 .keepassx/
 .lesshst
 .local/
