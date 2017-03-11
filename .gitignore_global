@@ -13,3 +13,4 @@ Procfile
 .pia_manager/
 .tmate.conf.off
 ar_test_scripts/
+config/initializers/active_record_log_subscriber.rb
