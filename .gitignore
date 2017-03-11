@@ -65,7 +65,7 @@ journals/
 .secrets/
 .irbhistory
 .cpanm/
-.basecamp_aliases
+.github_aliases
 .cocoapods/
 .neoman
 .rediscli_history
