@@ -85,3 +85,4 @@ journals/
 .pia_manager/
 github/
 open_source/
+.babel.json
