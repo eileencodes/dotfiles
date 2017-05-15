@@ -139,6 +139,11 @@ function! Strip()
   %s/\s\+$//e
 endfunction
 
+" Change hash rockets (:x => a) to new Ruby syntax (x: a)
+function! RocketFix()
+  %s/:\([^=,'"]*\) =>/\1:/gc
+endfunction
+
 " Hightlight whitespace and tabs
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
