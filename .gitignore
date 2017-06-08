@@ -86,3 +86,4 @@ journals/
 github/
 open_source/
 .babel.json
+.my.cnf
