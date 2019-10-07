@@ -87,3 +87,18 @@ github/
 open_source/
 .babel.json
 .my.cnf
+Creative Cloud Files/
+.yarnrc
+.webdrivers/
+keys/
+projects/
+.chromedriver-helper/
+.docker/
+.iex_history
+.python-eggs/
+.sqlite_history
+.vim/bundle/vim-elixir/
+.vim/bundle/vim-fugitive/.gitattributes
+.vim/bundle/vim-fugitive/autoload/
+.vim/bundle/vim-fugitive/ftdetect/
+.vim/bundle/vim-fugitive/syntax/
