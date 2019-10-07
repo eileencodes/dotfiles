@@ -42,3 +42,5 @@ alias ack='ack --color-filename="red bold" --color-match="yellow bold" --color-l
 eval "$(rbenv init -)"
 export PATH="/usr/local/sbin:$PATH"
 export DISABLE_SPRING=1
+
+export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"
