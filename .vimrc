@@ -144,6 +144,9 @@ function! RocketFix()
   %s/:\([^=,'"]*\) =>/\1:/gc
 endfunction
 
+" puts the caller
+nnoremap <leader>wtf oputs "#" * 90<c-m>puts caller<c-m>puts "#" * 90<esc>
+
 " Hightlight whitespace and tabs
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
