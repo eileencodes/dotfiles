@@ -103,3 +103,4 @@ projects/
 .vim/bundle/vim-fugitive/ftdetect/
 .vim/bundle/vim-fugitive/syntax/
 Boostnote/
+.zsh_history
