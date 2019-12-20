@@ -102,3 +102,4 @@ projects/
 .vim/bundle/vim-fugitive/autoload/
 .vim/bundle/vim-fugitive/ftdetect/
 .vim/bundle/vim-fugitive/syntax/
+Boostnote/
